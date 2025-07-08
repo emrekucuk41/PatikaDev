@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import javax.naming.event.NamingExceptionEvent;
 public class NotOrtalamasiHesaplama {
     public static void main(String[] args){
         int mat,fizik,kimya,turkce,tarih,muzik;
