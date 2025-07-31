@@ -2,7 +2,7 @@
 Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden
 çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz.*/
 import java.util.Scanner;
-public class Odev1 {
+public class Odev {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int sayi,toplam = 0;
